@@ -11,7 +11,7 @@
 Escrevo código como quem compõe uma música: cada linha com propósito, cada projeto com identidade.
 
 - 🔥 Apaixonado por desenvolvimento de software e soluções escaláveis
-- 🧠 Sempre aprendendo algo novo (e esquecendo o que aprendi há mêses atrás)
+- 🧠 Sempre aprendendo algo novo
 - 💡 Transformo ideias malucas em produtos reais
 - 🎯 Foco em código limpo, arquitetura sólida com qualidade, praticidade e valor agregado para o cliente/usuario final.
 
