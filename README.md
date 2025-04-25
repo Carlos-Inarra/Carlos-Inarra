@@ -68,6 +68,18 @@ Experiência com conteinerização e deploy em ambientes modernos com **Docker**
 
 ---
 
+### Um pouco sobre minha trajetória
+
+Atualmente, trabalho como Engenheiro de Dados na Kepha, com foco em scraping, modelagem e estruturação de dados para pesquisas de mercado e melhor elaboração de pricing e logistica de nossos clientes. Também participo ativamente em diversos projetos que agregam valor tanto internamente quanto externamente, gerando oportunidades para novos negócios.
+
+Minha trajetória profissional começou como Jovem Aprendiz em uma das maiores distribuidoras farmacêuticas do Rio de Janeiro, onde evoluí para Assistente de Vendas. Enfrentei desafios importantes, realizando análises de vendas e desenvolvendo automações que otimizaram processos, permitindo que os supervisores se concentrassem no relacionamento com os clientes. Um dos meus maiores orgulhos foi o desenvolvimento de softwares e análises que solucionaram gargalos no setor de vendas aumentando receitas em clientes e oportunidades de redes que estavam de lado no momento além do fomento e competitividade de preços dos setores de compras e financeiro gerando um pricing e distribuição mais qualificados.
+
+Em 2023, aceitei o desafio de integrar dados no Sicoob, liderando a integração de APIs e a modelagem de dados. Esse projeto não só aprimorou minhas habilidades técnicas, como também resultou em uma parceria valiosa. Hoje em dia ainda participo de elaborações de paineis para as coperativas e manutenções de integrações existentes em GraphQL fora as oportunidades de automações RPA e WEB nos CRMs que surgem de vez em quando.
+
+Além disso, atuei como Analista de Receitas na primeira OBT (Online Booking Tool) do Brasil, onde meu foco foi maximizar o faturamento e otimizar o uso dos serviços. Conquistei isso por meio de análises de mercado, negociações com fornecedores, automação de processos na area de contratos, prospecção entre outras e desenvolvimento de planos estratégicos que aumentaram o valor de nossos novos produtos lançados afim de complementar e agregar o robusto sistema que nossos clientes utilizavam. Grande parte dessa minha atuação na empresa foi no operacional visando a "Faxina na casa" mas de qualquer forma sou muito grato pelos resultados alcançados principalmente com negociações e distribuições de alguns fornecedores que após 6 meses entregaram para nosso fluxo de caixa aumentos de 44% á 230% comparado ao semestre anterior.
+
+---
+
 <p align="center">
   <b>"Só aprende quem erra, só evolui quem tenta!"</b> 💬
 </p>
