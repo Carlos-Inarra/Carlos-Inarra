@@ -1,7 +1,7 @@
 <h1 align="center">✨ Fala, Dev! Eu sou o Inarra 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=00FFAD&lines=Full+Stack+Developer;Creative+Coder;Coffee+%2B+Code+Lover;Aprendizado+Infinito" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=0077b6&lines=Automation;Web+Developer;Data+Enginner;Aprendizado+Infinito" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 Escrevo código como quem compõe uma música: cada linha com propósito, cada projeto com identidade.
 
 - 🔥 Apaixonado por desenvolvimento de software e soluções escaláveis
-- 🧠 Sempre aprendendo algo novo (e esquecendo o que aprendi no mês passado)
+- 🧠 Sempre aprendendo algo novo (e esquecendo o que aprendi há mêses atrás)
 - 💡 Transformo ideias malucas em produtos reais
 - 🎯 Foco em código limpo, arquitetura sólida com qualidade, praticidade e valor agregado para o cliente/usuario final.
 
@@ -21,8 +21,22 @@ Escrevo código como quem compõe uma música: cada linha com propósito, cada p
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
+
+![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
+![PyAutoGUI](https://img.shields.io/badge/-PyAutoGUI-black?style=flat-square&logo=python)
+![Appium](https://img.shields.io/badge/-Appium-black?style=flat-square&logo=appium)
+![ADB](https://img.shields.io/badge/-ADB-black?style=flat-square&logo=android)
+![Maestro](https://img.shields.io/badge/-Maestro-black?style=flat-square&logo=android)
+
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+![Polars](https://img.shields.io/badge/-Polars-black?style=flat-square&logo=python)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-black?style=flat-square&logo=python)
 
 ---
 
@@ -54,14 +68,14 @@ Experiência com conteinerização e deploy em ambientes modernos com **Docker**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlos-inarra/)
 - 📬 [Email](mailto:carlosinarra17@gmail.com)
-- 📞 [Celular] (+55 21 9 8143-9324)
+- 📞 +55 (21) 9 8143-9324
 
 ---
 
 <p align="center">
-  <b>"Nem só de deploy vive o dev. Mas ajuda bastante."</b> 💬
+  <b>"Só aprende quem erra, só evolui quem tenta!"</b> 💬
 </p>
 
 <p align="center">
-  ⭐️ Se curtir algum projeto meu, dá uma estrela. Se quiser trocar ideia, chama!
+  ⭐Se chegou até aqui e quiser trocar ideia, será um prazer trocar figurinha!
 </p>
