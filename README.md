@@ -38,6 +38,11 @@ Escrevo código como quem compõe uma música: cada linha com propósito, cada p
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-black?style=flat-square&logo=python)
 
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-black?style=flat-square&logo=microsoftsqlserver)
+
 ---
 
 #### 🔹 Web (micro serviços / integrações / web services / APIs)
@@ -54,15 +59,6 @@ Experiência com conteinerização e deploy em ambientes modernos com **Docker**
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=radical" />
-</p>
-
----
 
 ### 📫 Onde me encontrar
 
