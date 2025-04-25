@@ -1,4 +1,4 @@
-<h1 align="center">✨ Fala, Dev! Eu sou o Inarra 👨‍💻</h1>
+<h1 align="center">✨ Hey! Eu sou o Inarra 👨‍💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=0077b6&lines=Automation;Web+Developer;Data+Enginner;Aprendizado+Infinito" />
