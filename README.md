@@ -81,7 +81,7 @@ Além disso, atuei como Analista de Receitas na primeira OBT (Online Booking Too
 ---
 
 <p align="center">
-  <b>"Só aprende quem erra, só evolui quem tenta!"</b> 💬
+  <b>"O dificil é aprender a ler, o resto ta escrito!"</b> 💬
 </p>
 
 <p align="center">
